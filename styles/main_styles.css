@@ -1177,10 +1177,10 @@ section
 .service_item_icon
 {
 	position: absolute;
-	top: -70px;
+	top: -90px;
 	left: 0;
-	width: 42px;
-	height: 42px;
+	width: 82px;
+	height: 82px;
 	-webkit-transition: all 600ms ease;
 	-moz-transition: all 600ms ease;
 	-ms-transition: all 600ms ease;
@@ -1475,6 +1475,7 @@ section
 
 .footer
 {
+	background-color: #251343;
 	padding-top: 99px;
 	padding-bottom: 82px;
 }
@@ -1546,7 +1547,7 @@ section
 {
 	font-size: 18px;
 	font-weight: 500;
-	color: #28262d;
+	color: #000000;
 	margin-bottom: 9px;
 }
 .footer_col ul li
