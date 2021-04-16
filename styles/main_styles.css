@@ -507,7 +507,7 @@ section
 	font-size: 24px;
 	line-height: 1.5;
 	font-weight: 500;
-	color: #FFFFFF;
+	color: #110000;
 }
 .item_1 span:first-child
 {
@@ -1177,7 +1177,7 @@ section
 .service_item_icon
 {
 	position: absolute;
-	top: -90px;
+	top: -70px;
 	left: 0;
 	width: 82px;
 	height: 82px;
@@ -1547,7 +1547,7 @@ section
 {
 	font-size: 18px;
 	font-weight: 500;
-	color: #000000;
+	color: #ff8411;
 	margin-bottom: 9px;
 }
 .footer_col ul li
