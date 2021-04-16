@@ -1550,11 +1550,11 @@ section
 	color: #ff8411;
 	margin-bottom: 9px;
 }
-.footer_col ul li
+.footer_col ul li ol
 {
 	margin-bottom: 4px;
 }
-.footer_col ul li a
+.footer_col ul li a ol
 {
 	font-size: 16px;
 	font-weight: 500;
